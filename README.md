@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Eimu Barua</h1>
 <h3 align="center">Competitive Programmer</h3>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Girl in a jacket" width="400" >
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Girl in a jacket" width="350" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eimubarua&label=Profile%20views&color=0e75b6&style=flat" alt="eimubarua" /> </p>
 
 <h3 align="left">Connect with me:</h3>
